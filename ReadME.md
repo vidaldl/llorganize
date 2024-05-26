@@ -8,7 +8,7 @@
  
  
 
-[Showing off my program.](https://youtu.be/EsLKK_ss7qU)
+[Check out my program!](https://youtu.be/ciJgocx6fQg)
 
 # Development Environment
 
@@ -43,12 +43,7 @@ I recommend using your own pyenv to run this.
    pip install -r requirements.txt
    ```
 
-3. **Install the required libraries:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Install Ollama and set up Llama3**
+3. **Install Ollama and set up Llama3**
     - macOS:
         ```bash
         brew install ollama
@@ -60,7 +55,7 @@ I recommend using your own pyenv to run this.
         ollama install llama3
         ```
 
-5. **Start the Ollama server**
+4. **Start the Ollama server**
    ```bash
    ollama serve
    ```
